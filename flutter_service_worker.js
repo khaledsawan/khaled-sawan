@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "77e8928151ce4f1608f853d1181156ae",
+  "assets/AssetManifest.json": "1d88176d3327e6a7364e55e0bc42df72",
 "assets/FontManifest.json": "ec8a82ec184cf6cd45fbf68291b1fe6b",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/image/back%2520ground.png": "2351bffa790c54823ac52b5127497dee",
@@ -11,9 +11,11 @@ const RESOURCES = {
 "assets/image/food.png": "45b609182e3c3c6b0d5206e3b12ef70e",
 "assets/image/ic_launcher.png": "61f04d394e1b191f0f9079f79d48bf98",
 "assets/image/login.png": "44dd69e200c0e88f8900629a93bfd8c2",
+"assets/image/mashawiri%2520logo.jpg": "428858fb87a19d6eb594779aeac0e126",
 "assets/image/me-20220826.jpg": "73b2dac52c489d2c90f7339481b51a1e",
 "assets/image/note.png": "9f80fdac73679ee0c1d963ab1166120c",
 "assets/image/test.jpg": "b56d811d6adb8a8408614f5b13174906",
+"assets/image/unnamed.webp": "f804ab7e886bbe7a2b3f31959fda63fc",
 "assets/NOTICES": "e7c1ec0c71ed69d5d0f9dad85791924c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/simple_icons/fonts/SimpleIcons.ttf": "6f12ee07cbfada68d794ba108fed5106",
@@ -22,15 +24,16 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"favicon.ico": "4aea46d04ea823c51f0001600ca875da",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f034d5f6d0bd86cacaefc5203b529f07",
-"/": "f034d5f6d0bd86cacaefc5203b529f07",
-"main.dart.js": "3c73a0fd368149c37f76a3419ff53f42",
+"icons/Icon-maskable-512.png": "0f40b0b0ebc165fa48491648f70e9cc2",
+"index.html": "1446e01ff0efce7ea7ac2ce1368e158f",
+"/": "1446e01ff0efce7ea7ac2ce1368e158f",
+"main.dart.js": "ee90f6b90112b76560a39d5b0194d7bf",
 "manifest.json": "e8310b931d87e32eb3276e1ea467889d",
 "version.json": "855840aacfc2deca0adba02b1c70a323"
 };
