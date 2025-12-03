@@ -5,7 +5,7 @@
         "title": "Software Engineer",
         "description": "I build exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.",
         "userImage": "assets/Me.jpg",
-        "resumeUrl": "https://example.com/resume.pdf",
+        "resumeUrl": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/Mobile%20application%20developer.pdf",
         "socialLinks": [
             {
                 "platform": "GitHub",
@@ -24,23 +24,35 @@
     },
     "about": {
         "title": "About Me",
-        "bio": "I am a passionate software engineer with a strong background in mobile and web development. I love building beautiful and functional applications that solve real-world problems. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee."
+        "bio": "I am a passionate software engineer with a strong background in mobile and web development. I love building beautiful and functional applications that solve real-world problems. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee.",
+        "achievement": [
+            {
+                "title": "4+",
+                "subTitle": "Years Experience",
+                "color": "#03fcc2"
+            },
+            {
+                "title": "9+",
+                "subTitle": "Projects Completed",
+                "color": "#533483"
+            }
+        ]
     },
     "services": [
         {
             "title": "Mobile App Development",
-            "description": "Building high-performance, cross-platform mobile applications using Flutter for both iOS and Android.",
+            "description": "Developing high-quality mobile apps using Flutter for Android and iOS, with additional experience in native Swift and Android Java, integrating Firebase, Supabase, and AI-powered features.",
             "icon": "mobile"
         },
         {
-            "title": "Web Development",
-            "description": "Creating responsive and modern web applications with a focus on user experience and performance.",
-            "icon": "code"
+            "title": "Backend Development",
+            "description": "Building secure and scalable backend systems using Dart Frog, Laravel, and PHP, integrating Firebase and Supabase services, implementing OpenAPI standards, and adding AI-driven features using AI Models",
+            "icon": "database"
         },
         {
-            "title": "UI/UX Design",
-            "description": "Designing intuitive and visually appealing user interfaces that enhance user engagement.",
-            "icon": "paint-brush"
+            "title": "AI Integration & Deployment",
+            "description": "Building intelligent features using modern AI models, optimizing prompts, and integrating AI into mobile and web applications. automating deployments with CI/CD, and publishing applications to the App Store and Google Play.",
+            "icon": "server"
         }
     ],
     "skills": {
@@ -55,16 +67,12 @@
                         "level": 95
                     },
                     {
-                        "name": "Dart",
-                        "level": 90
-                    },
-                    {
                         "name": "iOS Development",
-                        "level": 75
+                        "level": 70
                     },
                     {
                         "name": "Android Development",
-                        "level": 80
+                        "level": 60
                     }
                 ]
             },
@@ -74,20 +82,12 @@
                 "color": "#533483",
                 "items": [
                     {
-                        "name": "React",
-                        "level": 85
-                    },
-                    {
-                        "name": "Next.js",
+                        "name": "Blade & Livewire",
                         "level": 80
                     },
                     {
-                        "name": "TypeScript",
-                        "level": 88
-                    },
-                    {
-                        "name": "HTML/CSS",
-                        "level": 92
+                        "name": "HTML/CSS/JS",
+                        "level": 90
                     }
                 ]
             },
@@ -97,39 +97,39 @@
                 "color": "#16213E",
                 "items": [
                     {
-                        "name": "Node.js",
-                        "level": 82
-                    },
-                    {
-                        "name": "Firebase",
+                        "name": "Laravel/PHP",
                         "level": 90
                     },
                     {
-                        "name": "AWS",
-                        "level": 70
+                        "name": "Firebase / Supabase",
+                        "level": 90
                     },
                     {
-                        "name": "REST APIs",
-                        "level": 85
+                        "name": "VPS & DevOps",
+                        "level": 60
                     }
                 ]
             },
             {
-                "name": "Tools & Soft Skills",
+                "name": "Tools & Technology",
                 "icon": "paint-brush",
                 "color": "#E94560",
                 "items": [
                     {
-                        "name": "Git & GitHub",
-                        "level": 90
+                        "name": "AI Integration",
+                        "level": 85
                     },
                     {
-                        "name": "Agile & SDLC",
-                        "level": 95
+                        "name": "OpenAPI & API Design",
+                        "level": 80
                     },
                     {
-                        "name": "Communication & Problem Solving",
-                        "level": 90
+                        "name": "Git & CI/CD",
+                        "level": 85
+                    },
+                    {
+                        "name": "App Store / Play Store Deployment",
+                        "level": 80
                     }
                 ]
             }
@@ -137,106 +137,126 @@
     },
     "projects": [
         {
-            "title": "Focus Trading",
-            "description": "Corporate system providing advanced business solutions and management tools.",
-            "category": "Web",
-            "color": "#0F3460",
-            "image": "https://media.licdn.com/dms/image/D4E03AQFPRf1dFQmFgg/profile-displayphoto-shrink_800_800/0/1681820082635",
+            "title": "Workiom",
+            "description": "All-in-one business platform that helps teams collaborate, manage projects, and streamline operations with integrations like Zapier.",
+            "category": "Web + Mobile",
+            "color": "#954fff",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Workiom.png",
             "featured": true,
             "techStack": [
-                "Laravel",
-                "Flutter"
+                "Flutter",
+                "Open API",
+                "AI Integration",
+                "CI/CD"
             ],
             "githubUrl": "",
-            "liveUrl": "https://www.focustradingcompany.com/",
-            "details": "Developed core system components enabling clients to manage operations, automate workflows, and access scalable business tools."
+            "liveUrl": "https://workiom.com",
+            "android": "https://play.google.com/store/apps/details?id=com.Workiom",
+            "ios": "https://apps.apple.com/us/app/workiom/id1484794087",
+            "details": "Workiom provides an integrated suite of applications for managing tasks, documents, team communication, and customer relationships. It includes mobile apps for iOS and Android, and offers third-party integrations such as Zapier for enhanced productivity."
         },
         {
             "title": "Mashawiri",
             "description": "Ride-hailing platform connecting drivers and riders with real-time trip management.",
             "category": "Mobile",
-            "color": "#533483",
-            "image": "https://online-free-course.000webhostapp.com/CourseImages/mashawiri logo.jpg",
+            "color": "#2569fa",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Mashawiri.jpg",
             "featured": true,
             "techStack": [
                 "Flutter",
                 "Firebase",
-                "Google Maps"
+                "Google Maps",
+                "Web Socket",
+                "Syria Online Payment"
             ],
             "githubUrl": "",
-            "liveUrl": "https://www.mashawiri.com/",
-            "details": "Complete customer app including trip requests, map navigation, pricing, and live updates."
+            "liveUrl": "http://mashawiri.focustradingco.sy",
+            "android": "https://play.google.com/store/apps/details?id=com.ma.ma_app_client",
+            "ios": "https://apps.apple.com/tr/app/%D9%85%D8%B4%D8%A7%D9%88%D9%8A%D8%B1%D9%8A/id1518499131",
+            "details": "Complete customer app including trip requests, map navigation, pricing, online payment, and live updates."
         },
         {
             "title": "Mashawiri Driver",
             "description": "Driver application for accepting and managing ride requests.",
             "category": "Mobile",
-            "color": "#E94560",
-            "image": "https://online-free-course.000webhostapp.com/CourseImages/unnamed.webp",
+            "color": "#073eb5",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Mashawiri_driver.jpg",
             "featured": false,
             "techStack": [
                 "Flutter",
                 "Firebase",
-                "Maps"
+                "Google Maps",
+                "Web Socket",
+                "Syria Online Payment"
             ],
             "githubUrl": "",
-            "liveUrl": "https://play.google.com/store/apps/details?id=com.ma.ma_app_driver",
+            "liveUrl": "http://mashawiri.focustradingco.sy",
+            "android": "https://play.google.com/store/apps/details?id=com.ma.ma_app_driver",
+            "ios": "",
             "details": "Includes trip handling, navigation, fare calculations, and real-time updates."
         },
         {
             "title": "SellanyAd",
             "description": "Influencer marketing platform connecting businesses with creators.",
             "category": "Mobile",
-            "color": "#16213E",
-            "image": "https://online-free-course.000webhostapp.com/CourseImages/sellanyad.webp",
-            "featured": true,
+            "color": "#af07b5",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/sellAnyAdd.jpg",
+            "featured": false,
             "techStack": [
                 "Flutter",
-                "Laravel",
-                "Firebase"
+                "Django",
+                "WebRTC"
             ],
             "githubUrl": "",
-            "liveUrl": "https://play.google.com/store/apps/details?id=com.sellanyad.app",
+            "liveUrl": "",
+            "android": "https://play.google.com/store/apps/details?id=com.sellanyad.app",
+            "ios": "",
             "details": "Enables businesses to run influencer campaigns, track performance, and collaborate with creators."
         },
         {
             "title": "Online Course Platform",
             "description": "E-learning platform with video courses, playlists, teachers, and subscription plans.",
             "category": "Mobile",
-            "color": "#533483",
-            "image": "https://online-free-course.000webhostapp.com/CourseImages/electronic school.png",
+            "color": "#2b4747",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/OnlineCourses.png",
             "featured": false,
             "techStack": [
                 "Flutter",
                 "Laravel",
-                "Firebase"
+                "Firebase",
+                "HTML/CSS"
             ],
             "githubUrl": "https://github.com/khaledsawan/onLine-school",
             "liveUrl": "https://raw.githubusercontent.com/khaledsawan/onLine-school/main/app-arm64-v8a-release.apk",
-            "details": "Project Description: Online Courses Platform\n\nWelcome to our Online Courses platform, your gateway to a world of knowledge and skill development. Our mobile application is designed for those who are eager to enhance their expertise through a wide range of educational courses. We offer a diverse selection of educational paths and flexible subscription plans, ensuring a tailored learning experience for every user.\n\nKey Features:\n\n📚 Educational Pathways: Embark on your learning journey with curated educational paths that guide you through a structured series of courses, enabling you to master a specific subject or skill.\n\n🌟 Subscription Plans: Choose from our Pro, Plus, and Free plans, each offering varying levels of access to our extensive library of courses, ensuring affordability and flexibility.\n\n🎥 Video Courses: Dive into the world of learning with video-based courses. Explore a vast collection of instructional videos covering a wide range of topics.\n\n🔍 Search and Discover: Seamlessly search for specific courses or videos of interest. Our robust search functionality makes it easy to find the content you're looking for.\n\n📜 Create Playlists: Personalize your learning experience by creating custom playlists. Add your favorite videos to playlists for easy access and organization.\n\n💬 Engage and Collaborate: Interact with other learners by commenting on videos. Foster a community of knowledge-sharing where users can answer each other's questions.\n\n👤 Teacher Profiles: Explore the profiles of our experienced teachers. Follow your favorite instructors and receive notifications when they add new courses or videos.\n\n🔔 Notifications: Stay informed about course updates, new video releases, and messages from your instructors through our notification system.\n\n⚙️ Video Configuration: Take control of your video experience with fully configurable settings, including playback quality and subtitles.\n\nJoin our Online Courses platform today and embark on a journey of continuous learning and personal growth. Whether you're a professional looking to enhance your skills or a lifelong learner seeking knowledge, our platform offers a world of educational opportunities at your fingertips. Get started now and unlock the doors to unlimited learning."
+            "android": "",
+            "ios": "",
+            "details": "Project Description: Online Courses Platform..."
         },
         {
             "title": "Hungry!",
             "description": "Food and shopping app with location-based services and personalized browsing.",
             "category": "Mobile",
-            "color": "#0F3460",
-            "image": "https://online-free-course.000webhostapp.com/CourseImages/food.png",
+            "color": "#f6ab44",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Hongry!.png",
             "featured": false,
             "techStack": [
                 "Flutter",
-                "Firebase"
+                "Firebase",
+                "Laravel"
             ],
             "githubUrl": "https://github.com/khaledsawan/Hungry-",
             "liveUrl": "",
+            "android": "",
+            "ios": "",
             "details": "A fast, intuitive user experience with product browsing, location features, and real-time updates."
         },
         {
             "title": "Homii",
             "description": "Student housing platform with donations, discounts, admin panel, and full housing management.",
             "category": "Web + Mobile",
-            "color": "#E94560",
-            "image": "https://online-free-course.000webhostapp.com/CourseImages/test.jpg",
-            "featured": true,
+            "color": "#9fc3ee",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/findhouse.png",
+            "featured": false,
             "techStack": [
                 "Laravel",
                 "Flutter",
@@ -244,6 +264,8 @@
             ],
             "githubUrl": "https://github.com/khaledsawan/Homii-",
             "liveUrl": "",
+            "android": "",
+            "ios": "",
             "details": "Provides affordable housing for students with donation system, admin dashboard, and full property management."
         }
     ],
