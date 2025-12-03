@@ -1,0 +1,257 @@
+{
+    "hero": {
+        "greeting": "Hello, I am",
+        "name": "Khaled Sawan",
+        "title": "Software Engineer",
+        "description": "I build exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.",
+        "userImage": "assets/Me.jpg",
+        "resumeUrl": "https://example.com/resume.pdf",
+        "socialLinks": [
+            {
+                "platform": "GitHub",
+                "url": "https://github.com/khaledsawan"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/in/khaled-sawan-66681b279"
+            },
+            {
+                "platform": "Telegram",
+                "url": "https://t.me/KHALEDSAWAN"
+            }
+        ],
+        "ctaText": "Check out my work!"
+    },
+    "about": {
+        "title": "About Me",
+        "bio": "I am a passionate software engineer with a strong background in mobile and web development. I love building beautiful and functional applications that solve real-world problems. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee."
+    },
+    "services": [
+        {
+            "title": "Mobile App Development",
+            "description": "Building high-performance, cross-platform mobile applications using Flutter for both iOS and Android.",
+            "icon": "mobile"
+        },
+        {
+            "title": "Web Development",
+            "description": "Creating responsive and modern web applications with a focus on user experience and performance.",
+            "icon": "code"
+        },
+        {
+            "title": "UI/UX Design",
+            "description": "Designing intuitive and visually appealing user interfaces that enhance user engagement.",
+            "icon": "paint-brush"
+        }
+    ],
+    "skills": {
+        "categories": [
+            {
+                "name": "Mobile Development",
+                "icon": "mobile",
+                "color": "#0F3460",
+                "items": [
+                    {
+                        "name": "Flutter",
+                        "level": 95
+                    },
+                    {
+                        "name": "Dart",
+                        "level": 90
+                    },
+                    {
+                        "name": "iOS Development",
+                        "level": 75
+                    },
+                    {
+                        "name": "Android Development",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "name": "Web Development",
+                "icon": "code",
+                "color": "#533483",
+                "items": [
+                    {
+                        "name": "React",
+                        "level": 85
+                    },
+                    {
+                        "name": "Next.js",
+                        "level": 80
+                    },
+                    {
+                        "name": "TypeScript",
+                        "level": 88
+                    },
+                    {
+                        "name": "HTML/CSS",
+                        "level": 92
+                    }
+                ]
+            },
+            {
+                "name": "Backend & Cloud",
+                "icon": "server",
+                "color": "#16213E",
+                "items": [
+                    {
+                        "name": "Node.js",
+                        "level": 82
+                    },
+                    {
+                        "name": "Firebase",
+                        "level": 90
+                    },
+                    {
+                        "name": "AWS",
+                        "level": 70
+                    },
+                    {
+                        "name": "REST APIs",
+                        "level": 85
+                    }
+                ]
+            },
+            {
+                "name": "Tools & Soft Skills",
+                "icon": "paint-brush",
+                "color": "#E94560",
+                "items": [
+                    {
+                        "name": "Git & GitHub",
+                        "level": 90
+                    },
+                    {
+                        "name": "Agile & SDLC",
+                        "level": 95
+                    },
+                    {
+                        "name": "Communication & Problem Solving",
+                        "level": 90
+                    }
+                ]
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "Focus Trading",
+            "description": "Corporate system providing advanced business solutions and management tools.",
+            "category": "Web",
+            "color": "#0F3460",
+            "image": "https://media.licdn.com/dms/image/D4E03AQFPRf1dFQmFgg/profile-displayphoto-shrink_800_800/0/1681820082635",
+            "featured": true,
+            "techStack": [
+                "Laravel",
+                "Flutter"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://www.focustradingcompany.com/",
+            "details": "Developed core system components enabling clients to manage operations, automate workflows, and access scalable business tools."
+        },
+        {
+            "title": "Mashawiri",
+            "description": "Ride-hailing platform connecting drivers and riders with real-time trip management.",
+            "category": "Mobile",
+            "color": "#533483",
+            "image": "https://online-free-course.000webhostapp.com/CourseImages/mashawiri logo.jpg",
+            "featured": true,
+            "techStack": [
+                "Flutter",
+                "Firebase",
+                "Google Maps"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://www.mashawiri.com/",
+            "details": "Complete customer app including trip requests, map navigation, pricing, and live updates."
+        },
+        {
+            "title": "Mashawiri Driver",
+            "description": "Driver application for accepting and managing ride requests.",
+            "category": "Mobile",
+            "color": "#E94560",
+            "image": "https://online-free-course.000webhostapp.com/CourseImages/unnamed.webp",
+            "featured": false,
+            "techStack": [
+                "Flutter",
+                "Firebase",
+                "Maps"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://play.google.com/store/apps/details?id=com.ma.ma_app_driver",
+            "details": "Includes trip handling, navigation, fare calculations, and real-time updates."
+        },
+        {
+            "title": "SellanyAd",
+            "description": "Influencer marketing platform connecting businesses with creators.",
+            "category": "Mobile",
+            "color": "#16213E",
+            "image": "https://online-free-course.000webhostapp.com/CourseImages/sellanyad.webp",
+            "featured": true,
+            "techStack": [
+                "Flutter",
+                "Laravel",
+                "Firebase"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://play.google.com/store/apps/details?id=com.sellanyad.app",
+            "details": "Enables businesses to run influencer campaigns, track performance, and collaborate with creators."
+        },
+        {
+            "title": "Online Course Platform",
+            "description": "E-learning platform with video courses, playlists, teachers, and subscription plans.",
+            "category": "Mobile",
+            "color": "#533483",
+            "image": "https://online-free-course.000webhostapp.com/CourseImages/electronic school.png",
+            "featured": false,
+            "techStack": [
+                "Flutter",
+                "Laravel",
+                "Firebase"
+            ],
+            "githubUrl": "https://github.com/khaledsawan/onLine-school",
+            "liveUrl": "https://raw.githubusercontent.com/khaledsawan/onLine-school/main/app-arm64-v8a-release.apk",
+            "details": "Project Description: Online Courses Platform\n\nWelcome to our Online Courses platform, your gateway to a world of knowledge and skill development. Our mobile application is designed for those who are eager to enhance their expertise through a wide range of educational courses. We offer a diverse selection of educational paths and flexible subscription plans, ensuring a tailored learning experience for every user.\n\nKey Features:\n\n📚 Educational Pathways: Embark on your learning journey with curated educational paths that guide you through a structured series of courses, enabling you to master a specific subject or skill.\n\n🌟 Subscription Plans: Choose from our Pro, Plus, and Free plans, each offering varying levels of access to our extensive library of courses, ensuring affordability and flexibility.\n\n🎥 Video Courses: Dive into the world of learning with video-based courses. Explore a vast collection of instructional videos covering a wide range of topics.\n\n🔍 Search and Discover: Seamlessly search for specific courses or videos of interest. Our robust search functionality makes it easy to find the content you're looking for.\n\n📜 Create Playlists: Personalize your learning experience by creating custom playlists. Add your favorite videos to playlists for easy access and organization.\n\n💬 Engage and Collaborate: Interact with other learners by commenting on videos. Foster a community of knowledge-sharing where users can answer each other's questions.\n\n👤 Teacher Profiles: Explore the profiles of our experienced teachers. Follow your favorite instructors and receive notifications when they add new courses or videos.\n\n🔔 Notifications: Stay informed about course updates, new video releases, and messages from your instructors through our notification system.\n\n⚙️ Video Configuration: Take control of your video experience with fully configurable settings, including playback quality and subtitles.\n\nJoin our Online Courses platform today and embark on a journey of continuous learning and personal growth. Whether you're a professional looking to enhance your skills or a lifelong learner seeking knowledge, our platform offers a world of educational opportunities at your fingertips. Get started now and unlock the doors to unlimited learning."
+        },
+        {
+            "title": "Hungry!",
+            "description": "Food and shopping app with location-based services and personalized browsing.",
+            "category": "Mobile",
+            "color": "#0F3460",
+            "image": "https://online-free-course.000webhostapp.com/CourseImages/food.png",
+            "featured": false,
+            "techStack": [
+                "Flutter",
+                "Firebase"
+            ],
+            "githubUrl": "https://github.com/khaledsawan/Hungry-",
+            "liveUrl": "",
+            "details": "A fast, intuitive user experience with product browsing, location features, and real-time updates."
+        },
+        {
+            "title": "Homii",
+            "description": "Student housing platform with donations, discounts, admin panel, and full housing management.",
+            "category": "Web + Mobile",
+            "color": "#E94560",
+            "image": "https://online-free-course.000webhostapp.com/CourseImages/test.jpg",
+            "featured": true,
+            "techStack": [
+                "Laravel",
+                "Flutter",
+                "HTML/CSS"
+            ],
+            "githubUrl": "https://github.com/khaledsawan/Homii-",
+            "liveUrl": "",
+            "details": "Provides affordable housing for students with donation system, admin dashboard, and full property management."
+        }
+    ],
+    "contact": {
+        "title": "Get In Touch",
+        "description": "I am currently looking for new opportunities. Whether you have a question or just want to say hi, I will try my best to get back to you!",
+        "email": "khaled963sawan@gmail.com",
+        "ctaText": "Say Hello",
+        "footerText": "Built with Flutter 💙 by Khaled Sawan"
+    }
+}
