@@ -139,7 +139,7 @@
         {
             "title": "Workiom",
             "description": "All-in-one business platform that helps teams collaborate, manage projects, and streamline operations with integrations like Zapier.",
-            "category": "",
+            "category": "Mobile + 📱 CI/CD",
             "color": "#954fff",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Workiom.png",
             "featured": true,
@@ -158,7 +158,7 @@
         {
             "title": "Mashawiri",
             "description": "Ride-hailing platform connecting drivers and riders with real-time trip management.",
-            "category": "",
+            "category": "Mobile + Backend + CI/CD",
             "color": "#2569fa",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Mashawiri.jpg",
             "featured": true,
@@ -178,7 +178,7 @@
         {
             "title": "Mashawiri Driver",
             "description": "Driver application for accepting and managing ride requests.",
-            "category": "",
+            "category": "Mobile + Backend + CI/CD",
             "color": "#073eb5",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Mashawiri_driver.jpg",
             "featured": false,
@@ -198,7 +198,7 @@
         {
             "title": "SellanyAd",
             "description": "Influencer marketing platform connecting businesses with creators.",
-            "category": "",
+            "category": "Mobile",
             "color": "#af07b5",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/sellAnyAdd.jpg",
             "featured": false,
@@ -216,7 +216,7 @@
         {
             "title": "Online Course Platform",
             "description": "E-learning platform with video courses, playlists, teachers, and subscription plans.",
-            "category": "",
+            "category": "Mobile + Backend + CI/CD",
             "color": "#2b4747",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/OnlineCourses.png",
             "featured": false,
@@ -235,7 +235,7 @@
         {
             "title": "Hungry!",
             "description": "Food and shopping app with location-based services and personalized browsing.",
-            "category": "",
+            "category": "Mobile + Backend",
             "color": "#f6ab44",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/Hongry!.png",
             "featured": false,
@@ -253,7 +253,7 @@
         {
             "title": "Homii",
             "description": "Student housing platform with donations, discounts, admin panel, and full housing management.",
-            "category": "",
+            "category": "Mobile + Backend",
             "color": "#9fc3ee",
             "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/findhouse.png",
             "featured": false,
