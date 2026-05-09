@@ -141,7 +141,7 @@
             "description": "Sawan Honey is a modern e-commerce platform for premium natural honey products, featuring a responsive storefront, admin dashboard, and WhatsApp-based ordering system powered by a Laravel backend.",
             "category": "Full-Stack",
             "color": "#ffc106",
-            "image": "https://www.sawanhoney.com/assets/images/logo.svg",
+            "image": "https://raw.githubusercontent.com/khaledsawan/khaled-sawan/main/online_assets/images/logo%20%281%29.png",
             "featured": true,
             "techStack": [
                 "Laravel & HTML, CSS, JS",
