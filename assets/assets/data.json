@@ -82,12 +82,12 @@
                 "color": "#533483",
                 "items": [
                     {
-                        "name": "Blade & Livewire",
-                        "level": 80
+                        "name": "Angular & Blade",
+                        "level": 50
                     },
                     {
                         "name": "HTML/CSS/JS",
-                        "level": 90
+                        "level": 70
                     }
                 ]
             },
@@ -97,12 +97,12 @@
                 "color": "#16213E",
                 "items": [
                     {
-                        "name": "Laravel/PHP",
+                        "name": "Laravel & ASP.NET Core",
                         "level": 90
                     },
                     {
                         "name": "Firebase / Supabase",
-                        "level": 90
+                        "level": 70
                     },
                     {
                         "name": "VPS & DevOps",
@@ -117,25 +117,42 @@
                 "items": [
                     {
                         "name": "AI Integration",
-                        "level": 85
+                        "level": 70
                     },
                     {
-                        "name": "OpenAPI & API Design",
-                        "level": 80
+                        "name": "API Design",
+                        "level": 70
                     },
                     {
                         "name": "Git & CI/CD",
-                        "level": 85
+                        "level": 70
                     },
                     {
                         "name": "App Store / Play Store Deployment",
-                        "level": 80
+                        "level": 90
                     }
                 ]
             }
         ]
     },
     "projects": [
+         {
+            "title": "Sawan Honey",
+            "description": "Sawan Honey is a modern e-commerce platform for premium natural honey products, featuring a responsive storefront, admin dashboard, and WhatsApp-based ordering system powered by a Laravel backend.",
+            "category": "Full-Stack",
+            "color": "#ffc106",
+            "image": "https://www.sawanhoney.com/assets/images/logo.svg",
+            "featured": true,
+            "techStack": [
+                "Laravel & HTML, CSS, JS",
+                "CI/CD & DevOps"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://www.sawanhoney.com",
+            "android": "",
+            "ios": "",
+            "details": "Sawan Honey is a full-stack honey e-commerce platform developed to deliver a seamless online shopping experience for natural honey products and related items. The project included building a scalable Laravel backend, responsive frontend interfaces, and a complete administrative dashboard for managing products, orders, and customer interactions. The platform integrates a WhatsApp-based ordering workflow to simplify communication and streamline customer purchases. The system was deployed and maintained on a VPS environment with attention to server configuration, database management, application security, and performance optimization. The frontend was developed using Vanilla JavaScript, HTML, and CSS, ensuring fast loading speeds and a responsive design across devices. The project demonstrates expertise in full-stack development, deployment, and production system management."
+        },
         {
             "title": "Workiom",
             "description": "All-in-one business platform that helps teams collaborate, manage projects, and streamline operations with integrations like Zapier.",
@@ -266,7 +283,7 @@
             "liveUrl": "",
             "android": "",
             "ios": "",
-            "details": "Provides affordable housing for students with donation system, admin dashboard, and full property management."
+            "details": "Provides affordable housing for students with a donation system, admin dashboard, and full property management."
         }
     ],
     "contact": {
